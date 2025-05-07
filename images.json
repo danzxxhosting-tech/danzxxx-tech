@@ -1,0 +1,77 @@
+[
+  {
+    "anime": "Naruto",
+    "character": "Naruto Uzumaki",
+    "image_url": "https://example.com/images/naruto_uzumaki.jpg"
+  },
+  {
+    "anime": "Naruto",
+    "character": "Sasuke Uchiha",
+    "image_url": "https://example.com/images/sasuke_uchiha.jpg"
+  },
+  {
+    "anime": "One Piece",
+    "character": "Monkey D. Luffy",
+    "image_url": "https://example.com/images/luffy.jpg"
+  },
+  {
+    "anime": "Attack on Titan",
+    "character": "Eren Yeager",
+    "image_url": "https://example.com/images/eren_yeager.jpg"
+  },
+  {
+    "anime": "Fullmetal Alchemist: Brotherhood",
+    "character": "Edward Elric",
+    "image_url": "https://example.com/images/edward_elric.jpg"
+  },
+  {
+    "anime": "My Hero Academia",
+    "character": "Izuku Midoriya",
+    "image_url": "https://example.com/images/midoriya.jpg"
+  },
+  {
+    "anime": "Demon Slayer",
+    "character": "Tanjiro Kamado",
+    "image_url": "https://example.com/images/tanjiro_kamado.jpg"
+  },
+  {
+    "anime": "One Piece",
+    "character": "Roronoa Zoro",
+    "image_url": "https://example.com/images/zoro.jpg"
+  },
+  {
+    "anime": "Attack on Titan",
+    "character": "Mikasa Ackerman",
+    "image_url": "https://example.com/images/mikasa_ackerman.jpg"
+  },
+  {
+    "anime": "Naruto",
+    "character": "Sakura Haruno",
+    "image_url": "https://example.com/images/sakura_haruno.jpg"
+  },
+  {
+    "anime": "Fairy Tail",
+    "character": "Natsu Dragneel",
+    "image_url": "https://example.com/images/natsu_dragneel.jpg"
+  },
+  {
+    "anime": "Bleach",
+    "character": "Ichigo Kurosaki",
+    "image_url": "https://example.com/images/ichigo_kurosaki.jpg"
+  },
+  {
+    "anime": "Tokyo Ghoul",
+    "character": "Ken Kaneki",
+    "image_url": "https://example.com/images/ken_kaneki.jpg"
+  },
+  {
+    "anime": "Neon Genesis Evangelion",
+    "character": "Shinji Ikari",
+    "image_url": "https://example.com/images/shinji_ikari.jpg"
+  },
+  {
+    "anime": "Death Note",
+    "character": "Light Yagami",
+    "image_url": "https://example.com/images/light_yagami.jpg"
+  }
+]
