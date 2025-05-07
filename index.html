@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Anime Quotes and Stickers</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="script.js" defer></script>
+</head>
+<body>
+  <div class="container">
+    <h1>Anime Quotes and Stickers</h1>
+    
+    <!-- Button for fetching anime quotes -->
+    <button id="quoteButton">Get Anime Quote</button>
+    <div id="quoteContainer" class="quote-container">
+      <p id="quoteText">Click the button to get an anime quote!</p>
+      <p id="quoteCharacter">Character: <span id="characterName"></span></p>
+      <p id="quoteAnime">Anime: <span id="animeName"></span></p>
+      <button id="quoteUrlButton" style="display:none;">Open Quote URL</button>
+    </div>
+    
+    <!-- Button for fetching anime sticker -->
+    <button id="stickerButton">Get Anime Sticker</button>
+    <div id="stickerContainer" class="sticker-container">
+      <img id="stickerImage" src="" alt="Anime Sticker" style="display: none;">
+      <p id="stickerCharacter">Character: <span id="stickerCharacterName"></span></p>
+      <p id="stickerAnime">Anime: <span id="stickerAnimeName"></span></p>
+      <button id="stickerUrlButton" style="display:none;">Open Sticker URL</button>
+    </div>
+  </div>
+</body>
+</html>
